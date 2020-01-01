@@ -227,7 +227,7 @@ class CrackDetector(tk.Frame):
                     bb.save(bbf+'/'+item)
                     ot.save(otf+'/'+item)
                     at.save(atf+'/'+item)
-                    sh.save(shf+'/'+(item[:-3]+'png') #.jpg throws error here; so .png is used
+                    sh.save(shf+'/'+(item[:-3]+'png')) #.jpg throws error here; so .png is used
                         
             except:
                 print("There has been an error. Check the source code please.")
