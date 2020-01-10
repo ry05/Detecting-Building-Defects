@@ -11,3 +11,11 @@
 ### Project Workflow
 
 To be updated
+
+### TODO List
+- [] Add the report
+- [] Add the presentation
+- [] Add in the block diagrams
+- [] The Wall Crack Project Folder - Data Collection, Block diagrams, Code, Both Approaches, Train Data, Test Data, Evaluation Metrics
+- [] Instructions to run the GUI
+- [] Other Defects
