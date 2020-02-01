@@ -1,22 +1,18 @@
 # Detecting Building Defects
 Identifying defects on the external surfaces of buildings
 
-### Seventh Semester Project
-### School : Amrita School of Engineering, Bengaluru
+Amrita School of Engineering, Bengaluru
 
-### Original Contributors :
+## Original Contributors :
 * <a href="https://github.com/ry05">Ramshankar Yadhunath</a>
 * <a href="#">Srivenkata Srikanth</a>
 * <a href="#">Arvind Sudheer</a>
 
-### Project Workflow
+## Initially Proposed Architecture
+![](images/Initially%20Proposed%20Architecture.png)
 
-To be updated
+## CNN Architecture
+![](images/CNN%20Architecture.png)
 
-### TODO List
-- [] Add the report
-- [] Add the presentation
-- [] Add in the block diagrams
-- [] The Wall Crack Project Folder - Data Collection, Block diagrams, Code, Both Approaches, Train Data, Test Data, Evaluation Metrics
-- [] Instructions to run the GUI
-- [] Other Defects
+## DIP-based Method Architecture
+![](images/DIP-based%20approach%20method.png)
