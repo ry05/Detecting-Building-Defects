@@ -1,6 +1,7 @@
-# Wall Defect Detection
+# Detecting Building Defects
+Identifying defects on the external surfaces of buildings
 
-### Course Code : 
+### Seventh Semester Project
 ### School : Amrita School of Engineering, Bengaluru
 
 ### Original Contributors :
