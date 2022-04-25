@@ -1,7 +1,7 @@
 # Detecting Building Defects
 Identifying defects on the external surfaces of buildings
 
-Official repository for the paper [Yadhunath, R., Srikanth, S., Sudheer, A., Jyotsna, C. and Amudha, J., 2022. Detecting surface cracks on buildings using computer vision: an experimental comparison of digital image processing and deep learning. In Soft Computing and Signal Processing (pp. 197-210). Springer, Singapore.](https://link.springer.com/chapter/10.1007/978-981-16-1249-7_20)
+Official repository for the paper: [Yadhunath, R., Srikanth, S., Sudheer, A., Jyotsna, C. and Amudha, J., 2022. Detecting surface cracks on buildings using computer vision: an experimental comparison of digital image processing and deep learning. In Soft Computing and Signal Processing (pp. 197-210). Springer, Singapore.](https://link.springer.com/chapter/10.1007/978-981-16-1249-7_20)
 
 ## Original Contributors :
 * <a href="https://github.com/ry05">Ramshankar Yadhunath</a>
