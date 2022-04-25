@@ -8,6 +8,8 @@ Official repository for the paper [Yadhunath, R., Srikanth, S., Sudheer, A., Jyo
 * <a href="https://github.com/skth5199">Srivenkata Srikanth</a>
 * <a href="#">Arvind Sudheer</a>
 
+The data used can be found here: [Surface Cracks Detection Datasets](https://github.com/skth5199/Surface-Cracks-Detection-Data)
+
 ## Initially Proposed Architecture
 ![](images/Initially%20Proposed%20Architecture.png)
 
